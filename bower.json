@@ -1,0 +1,22 @@
+{
+    "name": "ng-placeholders",
+    "version": "v0.0.2-SNAPSHOT",
+    "ignore": [
+        ".idea",
+        "demo",
+        "lib",
+        "node_modules",
+        "src",
+        "test",
+        ".bowerrc",
+        ".gitignore",
+        ".jshintignore",
+        ".jshintrc",
+        "angular-placeholders.iml",
+        "bower.json",
+        "Gruntfile.js",
+        "karma.conf.js",
+        "package.json",
+        "README.md"
+    ]
+}

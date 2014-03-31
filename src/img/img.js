@@ -46,6 +46,14 @@ angular.module( 'placeholders.img', [] )
         text_color: '#AAAAAA'
       };
 
+      if (attr.phImgFill!==undefined){
+        config.fill_color="#"+attr.phImgFill;
+      }
+
+      if (attr.phImgText!==undefined){
+            config.text_color="#"+attr.phImgText;
+      }
+
       /**
        * When the provided dimensions change, re-pull the width and height and
        * then redraw the image.
