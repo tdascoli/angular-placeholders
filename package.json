@@ -1,7 +1,7 @@
 {
   "author": "Josh David Miller, tdascoli",
   "name": "ng-placeholders",
-  "version": "0.0.2-SNAPSHOT",
+  "version": "0.0.3-SNAPSHOT",
   "dependencies": {},
   "devDependencies": {
     "node-markdown": "*",

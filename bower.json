@@ -1,6 +1,6 @@
 {
     "name": "ng-placeholders",
-    "version": "v0.0.2-SNAPSHOT",
+    "version": "v0.0.3-SNAPSHOT",
     "ignore": [
         ".idea",
         "demo",
