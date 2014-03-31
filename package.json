@@ -1,16 +1,20 @@
 {
-  "author": "Josh David Miller, tdascoli",
-  "name": "ng-placeholders",
-  "version": "0.0.3-SNAPSHOT",
-  "dependencies": {},
-  "devDependencies": {
-    "node-markdown": "*",
-    "grunt": "~0.4",
-    "grunt-karma": "~0.4",
-    "grunt-contrib-concat": "~0.2.0",
-    "grunt-contrib-uglify": "~0.2.0",
-    "grunt-contrib-watch": "~0.3.1",
-    "grunt-contrib-jshint": "~0.4.3",
-    "grunt-contrib-copy": "~0.4.1"
-  }
+    "author": "Josh David Miller, tdascoli",
+    "name": "ng-placeholders",
+    "version": "0.0.3-SNAPSHOT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tdascoli/angular-placeholders.git"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "node-markdown": "*",
+        "grunt": "~0.4",
+        "grunt-karma": "~0.4",
+        "grunt-contrib-concat": "~0.2.0",
+        "grunt-contrib-uglify": "~0.2.0",
+        "grunt-contrib-watch": "~0.3.1",
+        "grunt-contrib-jshint": "~0.4.3",
+        "grunt-contrib-copy": "~0.4.1"
+    }
 }
